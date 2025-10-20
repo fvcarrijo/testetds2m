@@ -5,4 +5,4 @@ CREATE TABLE FORNECEDOR (
   endereco VARCHAR(45) NULL,
   telefone INTEGER UNSIGNED NULL,
   PRIMARY KEY(id)
-);
+);;
